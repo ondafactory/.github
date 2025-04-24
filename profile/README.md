@@ -41,6 +41,6 @@ flowchart LR
 ---
 
 <div align="center">
-  Realizzato con ☕ &nbsp;dal team Onda Factory
+  Realizzato con ☕🍪🍵 dal team Onda Factory
 </div>
 
