@@ -4,9 +4,9 @@
 
 ---
 
-## 📝 Come aprire una issue
+## 📝 Come segnalare un problema
 
-1. Vai a **[`triage`](https://github.com/ondafactory/triage/issues/new)**.
+1. Aggiungi una issue in **[`triage`](https://github.com/ondafactory/triage/issues/new)**.
 2. Scegli un titolo e compila una descrizione chiara del problema.
 3. Invia: ci penseremo noi.
 
