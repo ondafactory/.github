@@ -1,4 +1,4 @@
-# 📌 OndaFactory – Come segnalare bug, feature ed epiche
+# 📌 Come segnalare bug, feature ed epiche
 
 Benvenuti in **OndaFactory**: questo è il punto di ingresso unico per tutte le segnalazioni.
 
