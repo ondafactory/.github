@@ -11,19 +11,16 @@ Può essere un bug, una nuova funzionalità, un miglioramento o un progetto stra
 
 Quando apri una **issue** su questo repository, puoi scegliere tra:
 
-- **🐞 Bug** → un problema tecnico che blocca o limita l’uso della piattaforma.  
-- **✨ Feature / Miglioramento** → una piccola nuova funzionalità o un’ottimizzazione a qualcosa di esistente.  
-- **🚀 Epic** → un progetto ampio e prioritario (settimane/mesi).  
+- **🐞 Bug** → un problema che blocca o limita l’uso della piattaforma.  
+- **✨ Feature** → una nuova funzionalità o un miglioramento a qualcosa di esistente.  
+- **🚀 Epic** → un progetto ampio.  
 
 ---
 
 ## 📝 Come inserire una issue
 
 1. Vai su **[New Issue](https://github.com/ondafactory/triage/issues/new)**.  
-2. Scegli il **template**:  
-   - Bug report  
-   - Feature / Miglioramento  
-   - Epic strategica  
+2. Scegli la tipologia di issue: Bug, Feature o Epic.
 3. Compila i campi richiesti.  
 4. Salva la issue.  
 
@@ -37,8 +34,8 @@ Quando apri una **issue** su questo repository, puoi scegliere tra:
 | ------------------------------------------------------------ | -------------------------------------------------------- | ----------- |
 | [`triage`](https://github.com/ondafactory/triage/issues)     | Tutte le segnalazioni iniziali.                          | Tutti       |
 | [`bugs`](https://github.com/ondafactory/bugs/issues)         | Problemi tecnici da risolvere.                           | Dev         |
-| [`features`](https://github.com/ondafactory/features/issues) | Piccole funzionalità o miglioramenti (1–2 giorni).       | Dev · PO    |
-| [`epics`](https://github.com/ondafactory/epics/issues)       | Progetti strategici (settimane/mesi).                    | Dev · PO    |
+| [`features`](https://github.com/ondafactory/features/issues) | Piccole funzionalità o miglioramenti.                    | Dev · PO    |
+| [`epics`](https://github.com/ondafactory/epics/issues)       | Progetti strategici.                                     | Dev · PO    |
 
 > Apri *sempre* le segnalazioni in **triage** → il team le instraderà poi nel backlog corretto.  
 > *(Gli altri repo hanno l’accesso in scrittura limitato).*
