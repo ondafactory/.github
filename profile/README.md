@@ -2,7 +2,7 @@
 
 **OndaFactory** è il punto di raccolta unico per tutte le segnalazioni.
 
-Se hai un problema, un’idea o una richiesta, **[apri una issue qui](https://github.com/ondafactory/triage/issues/new)**.  
+Se hai un problema, un’idea o una richiesta, **[apri una issue qui](https://github.com/ondafactory/work/issues/new)**.  
 Può essere un bug, una nuova funzionalità, un miglioramento o un progetto strategico.
 
 ---
@@ -19,26 +19,10 @@ Quando apri una **issue** su questo repository, puoi scegliere tra:
 
 ## 📝 Come inserire una issue
 
-1. Vai su **[New Issue](https://github.com/ondafactory/triage/issues/new)**.  
-2. Scegli la tipologia di issue: Bug, Feature o Epic.
+1. Vai su **[New Issue](https://github.com/ondafactory/work/issues/new)**.  
+2. Scegli la tipologia di issue: Bug, Feature o Strategic.
 3. Compila i campi richiesti.  
 4. Salva la issue.  
-
-👉 Sarà il team di sviluppo a spostarla nel backlog corretto.
-
----
-
-## 📦 Repository
-
-| Repository                                                     | Contenuto                                                | Destinatari |
-| -------------------------------------------------------------- | -------------------------------------------------------- | ----------- |
-| [`triage`](https://github.com/ondafactory/triage/issues)       | Tutte le segnalazioni iniziali.                          | Tutti       |
-| [`bugs`](https://github.com/ondafactory/bugs/issues)           | Problemi tecnici da risolvere.                           | Dev         |
-| [`features`](https://github.com/ondafactory/features/issues)   | Piccole funzionalità o miglioramenti.                    | Dev · PO    |
-| [`strategic`](https://github.com/ondafactory/strategic/issues) | Progetti o funzionalità strategiche.                     | Dev · PO    |
-
-> Apri *sempre* le segnalazioni in **triage** → il team le instraderà poi nel backlog corretto.  
-> *(Gli altri repo hanno l’accesso in scrittura limitato).*
 
 ---
 
