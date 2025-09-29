@@ -26,31 +26,6 @@ Quando apri una **issue** su questo repository, puoi scegliere tra:
 
 ---
 
-## 🔄 Flusso
-
-```mermaid
-flowchart TD
-  triage((Triage))
-
-  %% Bugs
-  triage --> bugs_backlog[Bugs]
-  bugs_backlog --> bugs_done((Done))
-
-  %% Features
-  triage --> feat_backlog[Features backlog]
-  feat_backlog --> feat_todo[To do]
-  feat_todo --> feat_doing[Doing]
-  feat_doing --> feat_done((Done))
-
-  %% Strategic
-  triage --> epic_backlog[Epics backlog]
-  epic_backlog --> epic_todo[To do]
-  epic_todo --> epic_doing[Doing]
-  epic_doing --> epic_done((Done))
-```
-
----
-
 <div align="center">
   Realizzato con ☕🍪🍵 dal team Onda
 </div>
