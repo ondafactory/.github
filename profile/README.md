@@ -1,4 +1,4 @@
-# 📌 Come segnalare bug, feature ed epiche
+# 📌 Come segnalare bug, feature o un progetto strategico
 
 **OndaFactory** è il punto di raccolta unico per tutte le segnalazioni.
 
@@ -13,7 +13,7 @@ Quando apri una **issue** su questo repository, puoi scegliere tra:
 
 - **🐞 Bug** → un problema che blocca o limita l’uso della piattaforma.  
 - **✨ Feature** → una nuova funzionalità o un miglioramento a qualcosa di esistente.  
-- **🚀 Epic** → un progetto ampio.  
+- **🚀 Strategic** → un progetto o una funzionalità strategica.  
 
 ---
 
@@ -30,12 +30,12 @@ Quando apri una **issue** su questo repository, puoi scegliere tra:
 
 ## 📦 Repository
 
-| Repository                                                   | Contenuto                                                | Destinatari |
-| ------------------------------------------------------------ | -------------------------------------------------------- | ----------- |
-| [`triage`](https://github.com/ondafactory/triage/issues)     | Tutte le segnalazioni iniziali.                          | Tutti       |
-| [`bugs`](https://github.com/ondafactory/bugs/issues)         | Problemi tecnici da risolvere.                           | Dev         |
-| [`features`](https://github.com/ondafactory/features/issues) | Piccole funzionalità o miglioramenti.                    | Dev · PO    |
-| [`epics`](https://github.com/ondafactory/epics/issues)       | Progetti strategici.                                     | Dev · PO    |
+| Repository                                                     | Contenuto                                                | Destinatari |
+| -------------------------------------------------------------- | -------------------------------------------------------- | ----------- |
+| [`triage`](https://github.com/ondafactory/triage/issues)       | Tutte le segnalazioni iniziali.                          | Tutti       |
+| [`bugs`](https://github.com/ondafactory/bugs/issues)           | Problemi tecnici da risolvere.                           | Dev         |
+| [`features`](https://github.com/ondafactory/features/issues)   | Piccole funzionalità o miglioramenti.                    | Dev · PO    |
+| [`strategic`](https://github.com/ondafactory/strategic/issues) | Progetti o funzionalità strategiche.                     | Dev · PO    |
 
 > Apri *sempre* le segnalazioni in **triage** → il team le instraderà poi nel backlog corretto.  
 > *(Gli altri repo hanno l’accesso in scrittura limitato).*
@@ -58,7 +58,7 @@ flowchart TD
   feat_todo --> feat_doing[Doing]
   feat_doing --> feat_done((Done))
 
-  %% Epics
+  %% Strategic
   triage --> epic_backlog[Epics backlog]
   epic_backlog --> epic_todo[To do]
   epic_todo --> epic_doing[Doing]
